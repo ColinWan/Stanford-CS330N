@@ -1,4 +1,4 @@
-# CS2330N-2019
+# CS330N-2019
 
 My solutions for the assignemnts while auditing CS330N (Meta Learning and Multi-task Leraning) 2019. 
 The original codes are in TensorFlow V1.X, I have adjusted them to V2.X
